@@ -12,6 +12,10 @@
                 del dashboard eso y campeonamos como los grandes haciendo y teniendo las cosas vacicas.
 
 *Dashboard ---> ponerle el transition de encogido a grande.Sino recobra su tamaño original muy toscamente.
+
+
+*Dashboard ---> meterle este grafico modo torta todo gozu luego le figureteamos mas gozu,esta puro css causa esta mamadicimo:
+                https://codepen.io/TsrCodes/pen/jObaGjE?fbclid=IwAR0_vAGjBfB8jdtHSX7bPSaEBmN-JGUDRLpqf08tR6LLsWdrPfGyDF4kkKI
                         
 *Buscar un tipo de letra gozu para el dashboard de preferencia el de el puerto riqueño.
 
