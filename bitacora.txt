@@ -1,0 +1,31 @@
+*Input Field ---> .contenedor_form_volador .campo_bord_volador input: cambiarm el porcentaje de rem a vh ya que lo que variara son las pantallas 
+                    como izimos con dashboard es mejor usar vh en todo
+                        padding: rem --> vh
+                                esto esta en el input
+                        .contenedor_form_volador .campo_bord_volador label {} aqui cambiar el font-size
+                        
+*podemos crear una clase que haga visible y ponga de color rojo los errores en php ya que se genera este automaticamente en php
+
+HACER QUE FUNCIONE INPUT FORM E INPUT MATERIAL DESING A TODA COSTA -_- 
+ya que funciona como si la wueva en la laptop
+
+*******************************************************************************************************************************************************************************
+*Dashboard opciones ---> .contenedor_adm > .vertical_menu a: se nota muy pequeño,
+                            font-size: 1.6vh;  ----> genial en pc gamer
+*centrador_pro ---> solo centra si esta solo, debemos hacer como una segunda opcion para centrar sin position absolute
+* Icono XRL8 del dashboar --->logo_adm: El tamaño de letra debe ser xx-large para pc y par los demas talla menor como smaller o asi[font-size: 1.4em;]
+    font-size: ?
+        3vh    --> normal
+        larger --> encogido
+*Input Material Desing--->.contenedor_form_volador, .contenedor_form_progre: Se distorciona se va de un lado para el otro quitar position y esa nota de rotacion
+    position: absolute; [quitar]
+    transform: translate(-50%, -50%);[quitar]
+*Input Clasi--->input[type:textarea]: meterle efecto de borde a este man
+* Icono de la campanita --->panel_usuario: Debe tener un vh menos ta muy grandote
+    height:?
+* Dashboard XRL8 ---> vertical_menu: hay una pestañita que se ve la letra de dashboard hacer que cuando este en tablet o cel este en hide
+    [Sin saber donde es]  
+* Formulario clasico ---> form_base: debe tener una altura simetrica este margin lo mueve muy abajo ver como hacer o dejarlo en auto para ponerle en presentacion centrada y otra en auto
+    margin: 25vh auto;
+//VERIFICAR SI ES PERMANENTE ESTE LINK APESAR DE HABER ELIMINADO EL REPOSITORIO
+https://cdn.jsdelivr.net/gh/Phool-Frontend/CDN_xrl8@master/xrl8.css
