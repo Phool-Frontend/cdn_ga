@@ -8,6 +8,9 @@
                                 esto esta en el input
                         .contenedor_form_volador .campo_bord_volador label {} aqui cambiar el font-size
                         
+*dashboard ---> Implementar las clases al scss para ponerle aqui eso de los anillitos y donde salen los usuarios de colegio creo,adicional habilitar el salir,session
+                del dashboard eso y campeonamos como los grandes haciendo y teniendo las cosas vacicas.
+                        
 *Buscar un tipo de letra gozu para el dashboard de preferencia el de el puerto riqueño.
 
 *******************************************************************************************************************************************************************************
