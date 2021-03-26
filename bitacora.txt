@@ -1,13 +1,14 @@
+
+*Input field ---> .contenedor_form_volador .campo_bord_volador label {}
+                  padding:1.4vh exelente estaba en rem  ---> es mas creo que lo de rem estaba bien en el input la cosa solo es en aqui en label el vh
+                  
 *Input Field ---> .contenedor_form_volador .campo_bord_volador input: cambiarm el porcentaje de rem a vh ya que lo que variara son las pantallas 
                     como izimos con dashboard es mejor usar vh en todo
                         padding: rem --> vh
                                 esto esta en el input
                         .contenedor_form_volador .campo_bord_volador label {} aqui cambiar el font-size
                         
-*podemos crear una clase que haga visible y ponga de color rojo los errores en php ya que se genera este automaticamente en php
-
-HACER QUE FUNCIONE INPUT FORM E INPUT MATERIAL DESING A TODA COSTA -_- 
-ya que funciona como si la wueva en la laptop
+*Buscar un tipo de letra gozu para el dashboard de preferencia el de el puerto riqueño.
 
 *******************************************************************************************************************************************************************************
 *Dashboard opciones ---> .contenedor_adm > .vertical_menu a: se nota muy pequeño,
