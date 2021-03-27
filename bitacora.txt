@@ -1,26 +1,24 @@
 PROBARESMOS CON .CSS NO EL CDN YA QUE LO HACE MAS DIFICIL,NO HAY QUE ENGAÑARNOS
 
-*Input field ---> .contenedor_form_volador .campo_bord_volador label {}
-                  padding:1.4vh exelente estaba en rem  ---> es mas creo que lo de rem estaba bien en el input la cosa solo es en aqui en label el vh
-                  
-*Input Field ---> .contenedor_form_volador .campo_bord_volador input: cambiarm el porcentaje de rem a vh ya que lo que variara son las pantallas 
-                    como izimos con dashboard es mejor usar vh en todo
-                        padding: rem --> vh
-                                esto esta en el input
-                        .contenedor_form_volador .campo_bord_volador label {} aqui cambiar el font-size
-                        
+                                          
 *Dashboard ---> Implementar las clases al scss para ponerle aqui eso de los anillitos y donde salen los usuarios de colegio creo,adicional habilitar el salir,session
                 del dashboard eso y campeonamos como los grandes haciendo y teniendo las cosas vacicas.
-
-*Dashboard ---> ponerle el transition de encogido a grande.Sino recobra su tamaño original muy toscamente.
-
 
 *Dashboard ---> meterle este grafico modo torta todo gozu luego le figureteamos mas gozu,esta puro css causa esta mamadicimo:
                 https://codepen.io/TsrCodes/pen/jObaGjE?fbclid=IwAR0_vAGjBfB8jdtHSX7bPSaEBmN-JGUDRLpqf08tR6LLsWdrPfGyDF4kkKI
                         
 *Buscar un tipo de letra gozu para el dashboard de preferencia el de el puerto riqueño.
+      .contenedor_adm > .vertical_menu a {}  ---> meter cursive
 
 *******************************************************************************************************************************************************************************
+*Dashboard ---> ponerle el transition de encogido a grande.Sino recobra su tamaño original muy toscamente.
+*Input field ---> .contenedor_form_volador .campo_bord_volador label {}
+                  padding:1.4vh exelente estaba en rem  ---> es mas creo que lo de rem estaba bien en el input la cosa solo es en aqui en label el vh
+*Input Field ---> .contenedor_form_volador .campo_bord_volador input: cambiarm el porcentaje de rem a vh ya que lo que variara son las pantallas 
+                    como izimos con dashboard es mejor usar vh en todo
+                        padding: rem --> vh
+                                esto esta en el input
+                        .contenedor_form_volador .campo_bord_volador label {} aqui cambiar el font-size
 *Dashboard opciones ---> .contenedor_adm > .vertical_menu a: se nota muy pequeño,
                             font-size: 1.6vh;  ----> genial en pc gamer
 *centrador_pro ---> solo centra si esta solo, debemos hacer como una segunda opcion para centrar sin position absolute
