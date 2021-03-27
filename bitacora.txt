@@ -1,3 +1,4 @@
+PROBARESMOS CON .CSS NO EL CDN YA QUE LO HACE MAS DIFICIL,NO HAY QUE ENGAÑARNOS
 
 *Input field ---> .contenedor_form_volador .campo_bord_volador label {}
                   padding:1.4vh exelente estaba en rem  ---> es mas creo que lo de rem estaba bien en el input la cosa solo es en aqui en label el vh
