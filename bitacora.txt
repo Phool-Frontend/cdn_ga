@@ -7,7 +7,7 @@ PROBARESMOS CON .CSS NO EL CDN YA QUE LO HACE MAS DIFICIL,NO HAY QUE ENGAÑARNOS
 *Dashboard ---> meterle este grafico modo torta todo gozu luego le figureteamos mas gozu,esta puro css causa esta mamadicimo:
                 https://codepen.io/TsrCodes/pen/jObaGjE?fbclid=IwAR0_vAGjBfB8jdtHSX7bPSaEBmN-JGUDRLpqf08tR6LLsWdrPfGyDF4kkKI
                         
-
+*Input-field ---> restablecer el que tenia rem si no da nos olvidamos del tema.
       
 *Lista de administradores: Meterle un modal xrl8 en esa tabla de editar y borrar.
                   
