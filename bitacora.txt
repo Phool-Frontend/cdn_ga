@@ -9,6 +9,11 @@ PROBARESMOS CON .CSS NO EL CDN YA QUE LO HACE MAS DIFICIL,NO HAY QUE ENGAÑARNOS
                         
 *Buscar un tipo de letra gozu para el dashboard de preferencia el de el puerto riqueño.
       .contenedor_adm > .vertical_menu a {}  ---> meter cursive
+      
+*Input Field ---> Falta meterle un numero mas a lo que se escribe:
+      .contenedor_form_volador .campo_bord_volador input {}
+            font-size: 2.3vh; ---------->max
+            font-size: 1.7vh; ---------->max
 
 *******************************************************************************************************************************************************************************
 *Dashboard ---> ponerle el transition de encogido a grande.Sino recobra su tamaño original muy toscamente.
