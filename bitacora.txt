@@ -1,6 +1,6 @@
 PROBARESMOS CON .CSS NO EL CDN YA QUE LO HACE MAS DIFICIL,NO HAY QUE ENGAÑARNOS
 
-                                          
+*************** DETALLES CERRADOS  ******** ARREGLAR LO QUE HAY ***********************************************************************************************                                       
 *Dashboard ---> Implementar las clases al scss para ponerle aqui eso de los anillitos y donde salen los usuarios de colegio creo,adicional habilitar el salir,session
                 del dashboard eso y campeonamos como los grandes haciendo y teniendo las cosas vacicas.
 
