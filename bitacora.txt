@@ -19,7 +19,7 @@ PROBARESMOS CON .CSS NO EL CDN YA QUE LO HACE MAS DIFICIL,NO HAY QUE ENGAÑARNOS
 
 *Form-field ---> Quitarle el width si le borramos nos dara una ancho gozu y responsive ademas que el usuario no tendra que poner !important 
           .contenedor_form_volador, .contenedor_form_progre{}
-                  [PENDEJADA DEBE HABER UN ESTILO PRE DEFINIDO PARA ESA ANCHURA EN PC GAMER EN LATOP VA 100% en auto]
+                  [PENDEJADA DEBE HABER UN ESTILO PRE DEFINIDO PARA ESA ANCHURA EN PC GAMER EN LATOP VA 100% en auto lo dejare como esta en 90%]
                   
 *Dashboar ---> Span en modo tablet al hacer click ya no debe agarrar la anchura de pc porque en pc gamer para distorcionado.
 
