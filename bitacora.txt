@@ -2,28 +2,37 @@ PROBARESMOS CON .CSS NO EL CDN YA QUE LO HACE MAS DIFICIL,NO HAY QUE ENGAÑARNOS
 
 *************** DETALLES CERRADOS  ******** ARREGLAR LO QUE HAY ***********************************************************************************************                                       
 *Dashboard ---> Implementar las clases al scss para ponerle aqui eso de los anillitos y donde salen los usuarios de colegio creo,adicional habilitar el salir,session
-                del dashboard eso y campeonamos como los grandes haciendo y teniendo las cosas vacicas.
+                del dashboard eso y campeonamos como los grandes haciendo y teniendo las cosas basicas.
 
 *Dashboard ---> meterle este grafico modo torta todo gozu luego le figureteamos mas gozu,esta puro css causa esta mamadicimo:
                 https://codepen.io/TsrCodes/pen/jObaGjE?fbclid=IwAR0_vAGjBfB8jdtHSX7bPSaEBmN-JGUDRLpqf08tR6LLsWdrPfGyDF4kkKI
                         
-*Buscar un tipo de letra gozu para el dashboard de preferencia el de el puerto riqueño.
-      .contenedor_adm > .vertical_menu a {}  ---> meter cursive
+
       
-*Input Field ---> Falta meterle un numero mas a lo que se escribe:
-      .contenedor_form_volador .campo_bord_volador input {}
-            font-size: 2.3vh; ---------->max
-            font-size: 1.7vh; ---------->max
-
 *Lista de administradores: Meterle un modal xrl8 en esa tabla de editar y borrar.
+                  
+*Dashboard ---> Span en modo tablet al hacer click ya no debe agarrar la anchura de pc porque en pc gamer para distorcionado.
 
+*******************************************************************************************************************************************************************************
 *Form-field ---> Quitarle el width si le borramos nos dara una ancho gozu y responsive ademas que el usuario no tendra que poner !important 
           .contenedor_form_volador, .contenedor_form_progre{}
                   [PENDEJADA DEBE HABER UN ESTILO PRE DEFINIDO PARA ESA ANCHURA EN PC GAMER EN LATOP VA 100% en auto lo dejare como esta en 90%]
                   
-*Dashboar ---> Span en modo tablet al hacer click ya no debe agarrar la anchura de pc porque en pc gamer para distorcionado.
-
-*******************************************************************************************************************************************************************************
+*Buscar un tipo de letra gozu para el dashboard de preferencia el de el puerto riqueño.
+      .contenedor_adm > .vertical_menu a {}  ---> meter cursive
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+*Input Field ---> Falta meterle un numero mas a lo que se escribe:
+      .contenedor_form_volador .campo_bord_volador input {}
+            font-size: 2.3vh; ---------->max
+            font-size: 1.7vh; ---------->max
 *Dashboard ---> ponerle el transition de encogido a grande.Sino recobra su tamaño original muy toscamente.
 *Input field ---> .contenedor_form_volador .campo_bord_volador label {}
                   padding:1.4vh exelente estaba en rem  ---> es mas creo que lo de rem estaba bien en el input la cosa solo es en aqui en label el vh
