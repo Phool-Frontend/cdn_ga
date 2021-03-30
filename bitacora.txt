@@ -15,6 +15,13 @@ PROBARESMOS CON .CSS NO EL CDN YA QUE LO HACE MAS DIFICIL,NO HAY QUE ENGAÑARNOS
             font-size: 2.3vh; ---------->max
             font-size: 1.7vh; ---------->max
 
+*Lista de administradores: Meterle un modal xrl8 en esa tabla de editar y borrar.
+
+*Form-field ---> Quitarle el width si le borramos nos dara una ancho gozu y responsive ademas que el usuario no tendra que poner !important 
+          .contenedor_form_volador, .contenedor_form_progre{}
+
+*Dashboar ---> Span en modo tablet al hacer click ya no debe agarrar la anchura de pc porque en pc gamer para distorcionado.
+
 *******************************************************************************************************************************************************************************
 *Dashboard ---> ponerle el transition de encogido a grande.Sino recobra su tamaño original muy toscamente.
 *Input field ---> .contenedor_form_volador .campo_bord_volador label {}
