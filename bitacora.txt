@@ -1,6 +1,11 @@
 PROBARESMOS CON .CSS NO EL CDN YA QUE LO HACE MAS DIFICIL,NO HAY QUE ENGAÑARNOS
 
-*************** DETALLES CERRADOS  ******** ARREGLAR LO QUE HAY ***********************************************************************************************                                       
+* v.0.5.0 ---> Tiene en rem
+* v.0.5.1 ---> Tiene en rem
+* v.0.5.1 ---> Tiene vh
+
+
+
 *Dashboard ---> Implementar las clases al scss para ponerle aqui eso de los anillitos y donde salen los usuarios de colegio creo,adicional habilitar el salir,session
                 del dashboard eso y campeonamos como los grandes haciendo y teniendo las cosas basicas.
 
@@ -12,6 +17,8 @@ PROBARESMOS CON .CSS NO EL CDN YA QUE LO HACE MAS DIFICIL,NO HAY QUE ENGAÑARNOS
 *Lista de administradores: Meterle un modal xrl8 en esa tabla de editar y borrar.
                   
 *Dashboard ---> Span en modo tablet al hacer click ya no debe agarrar la anchura de pc porque en pc gamer para distorcionado.
+
+*Login    ---> meter mi preloader :V
 
 *******************************************************************************************************************************************************************************
 *Form-field ---> Quitarle el width si le borramos nos dara una ancho gozu y responsive ademas que el usuario no tendra que poner !important 
