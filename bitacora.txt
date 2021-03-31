@@ -1,8 +1,8 @@
 PROBARESMOS CON .CSS NO EL CDN YA QUE LO HACE MAS DIFICIL,NO HAY QUE ENGAÑARNOS
 
-* v.0.5.0 ---> Tiene en rem
+* v.0.5.0 ---> Tiene en rem ---> Exelente esta este
 * v.0.5.1 ---> Tiene en rem
-* v.0.5.1 ---> Tiene vh
+* v.0.5.2 ---> Tiene vh
 
 
 
@@ -12,7 +12,7 @@ PROBARESMOS CON .CSS NO EL CDN YA QUE LO HACE MAS DIFICIL,NO HAY QUE ENGAÑARNOS
 *Dashboard ---> meterle este grafico modo torta todo gozu luego le figureteamos mas gozu,esta puro css causa esta mamadicimo:
                 https://codepen.io/TsrCodes/pen/jObaGjE?fbclid=IwAR0_vAGjBfB8jdtHSX7bPSaEBmN-JGUDRLpqf08tR6LLsWdrPfGyDF4kkKI
                         
-*Input-field ---> restablecer el que tenia rem si no da nos olvidamos del tema.
+
       
 *Lista de administradores: Meterle un modal xrl8 en esa tabla de editar y borrar.
                   
@@ -21,6 +21,8 @@ PROBARESMOS CON .CSS NO EL CDN YA QUE LO HACE MAS DIFICIL,NO HAY QUE ENGAÑARNOS
 *Login    ---> meter mi preloader :V
 
 *******************************************************************************************************************************************************************************
+*Input-field ---> restablecer el que tenia rem si no da nos olvidamos del tema.
+
 *Form-field ---> Quitarle el width si le borramos nos dara una ancho gozu y responsive ademas que el usuario no tendra que poner !important 
           .contenedor_form_volador, .contenedor_form_progre{}
                   [PENDEJADA DEBE HABER UN ESTILO PRE DEFINIDO PARA ESA ANCHURA EN PC GAMER EN LATOP VA 100% en auto lo dejare como esta en 90%]
