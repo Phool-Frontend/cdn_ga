@@ -1,11 +1,3 @@
-PROBARESMOS CON .CSS NO EL CDN YA QUE LO HACE MAS DIFICIL,NO HAY QUE ENGAÑARNOS
-
-* v.0.5.0 ---> Tiene en rem ---> Exelente esta este
-* v.0.5.1 ---> Tiene en rem
-* v.0.5.2 ---> Tiene vh
-
-
-
 *Dashboard ---> Implementar las clases al scss para ponerle aqui eso de los anillitos y donde salen los usuarios de colegio creo,adicional habilitar el salir,session
                 del dashboard eso y campeonamos como los grandes haciendo y teniendo las cosas basicas.
 
@@ -19,6 +11,10 @@ PROBARESMOS CON .CSS NO EL CDN YA QUE LO HACE MAS DIFICIL,NO HAY QUE ENGAÑARNOS
 *Login    ---> meter mi preloader :V
 
 *******************************************************************************************************************************************************************************
+
+* v.0.5.0 ---> Tiene en rem ---> Exelente esta este
+* v.0.5.1 ---> Tiene en rem
+* v.0.5.2 ---> Tiene vh
 *Dashboard ---> Span en modo tablet al hacer click ya no debe agarrar la anchura de pc porque en pc gamer para distorcionado.
 *Input-field ---> restablecer el que tenia rem si no da nos olvidamos del tema.
 
