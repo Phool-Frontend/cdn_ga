@@ -8,15 +8,16 @@
       
 *Lista de administradores: Meterle un modal xrl8 en esa tabla de editar y borrar.
                   
+
+
+                  
+*******************************************************************************************************************************************************************************
 *Login    ---> meter mi preloader :V
 *Pre-loader ---> 18) Pre-carga1 bolita  necesita un z-index: 1; para que se sobre ponga
 
 *Pre-loader ---> .bola-1, .bola-2 {} debe tener z-index:1
                   debe ser black
                   .pre-carga4 {} debe ser white o el fondo de nuestro agrada,debe haber una opcion de blanco o negro una clase
-                  
-*******************************************************************************************************************************************************************************
-
 * v.0.5.0 ---> Tiene en rem ---> Exelente esta este
 * v.0.5.1 ---> Tiene en rem
 * v.0.5.2 ---> Tiene vh
