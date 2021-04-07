@@ -11,7 +11,8 @@
 *Tamaño admin: ----------> cambiarle el tamaño
       .contenedor_adm > .vertical_menu h4 {}  hay que meterle font-size: 2.5vh; 
                   
-
+*Lista admin ----> hacer una lista normal simple sin paginacion,la cosa que funcione el modal de xrl8
+      lista-admin.php 
 
                   
 *******************************************************************************************************************************************************************************
