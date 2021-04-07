@@ -14,7 +14,9 @@
 *Lista admin ----> hacer una lista normal simple sin paginacion,la cosa que funcione el modal de xrl8
       lista-admin.php 
 
-                  
+*Modal    ---> ver como hacer que desaparesca al darle click en input creo podria ser con el checked, o al igual que boostrap con
+                JavascriptVainilla opto la verdad por Javascript asi no sera tan pesado en la parte de etiquetas.
+
 *******************************************************************************************************************************************************************************
 *Login    ---> meter mi preloader :V
 *Pre-loader ---> 18) Pre-carga1 bolita  necesita un z-index: 1; para que se sobre ponga
