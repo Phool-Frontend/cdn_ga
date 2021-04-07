@@ -7,6 +7,9 @@
 
       
 *Lista de administradores: Meterle un modal xrl8 en esa tabla de editar y borrar.
+
+*Tamaño admin: ----------> cambiarle el tamaño
+      .contenedor_adm > .vertical_menu h4 {}  hay que meterle font-size: 2.5vh; 
                   
 
 
