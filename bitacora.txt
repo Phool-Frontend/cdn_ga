@@ -31,6 +31,12 @@
 
 * En la seccion de efectos meterle el efecto de material desing como estrenando las cosas
 
+*Fondo grande para el OPCIONES
+      .despegable_encabezado label {
+      font-size: x-large;
+* Fondeo para las categorias de salir ----> desplegable_opcion{} 
+                                            font-size:initial
+
 *******************************************************************************************************************************************************************************
 *Lista de administradores: Meterle un modal xrl8 en esa tabla de editar y borrar.
 *Lista admin ----> hacer una lista normal simple sin paginacion,la cosa que funcione el modal de xrl8
