@@ -16,6 +16,9 @@
 * Menu salir ---> necesita ser mas abajo y debe estar en %, rem o vh.
       .contenedor_desplegable {}
         margin-top: 3rem !important; funciona buien en esta dimencion
+        
+* Ta que jode ese margin let que tiene el dashboard 
+  - si en vez de margin le cambiamos a padding :v seeeee
 
 *******************************************************************************************************************************************************************************
 *Lista de administradores: Meterle un modal xrl8 en esa tabla de editar y borrar.
