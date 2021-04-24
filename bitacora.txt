@@ -19,6 +19,14 @@
         
 * Ta que jode ese margin let que tiene el dashboard 
   - si en vez de margin le cambiamos a padding :v seeeee
+  
+  
+* Para centrarlo en la dimencion de gato:
+      .modal_form {}
+      left: 0;
+      right: 0;
+      margin: 0 auto;
+
 
 *******************************************************************************************************************************************************************************
 *Lista de administradores: Meterle un modal xrl8 en esa tabla de editar y borrar.
