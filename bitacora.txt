@@ -11,12 +11,16 @@
 *Tamaño admin: ----------> cambiarle el tamaño
       .contenedor_adm > .vertical_menu h4 {}  hay que meterle font-size: 2.5vh; 
                   
-*Lista admin ----> hacer una lista normal simple sin paginacion,la cosa que funcione el modal de xrl8
-      lista-admin.php 
 
 
+* Menu salir ---> necesita ser mas abajo y debe estar en %, rem o vh.
+      .contenedor_desplegable {}
+        margin-top: 3rem !important; funciona buien en esta dimencion
 
 *******************************************************************************************************************************************************************************
+*Lista de administradores: Meterle un modal xrl8 en esa tabla de editar y borrar.
+*Lista admin ----> hacer una lista normal simple sin paginacion,la cosa que funcione el modal de xrl8
+      lista-admin.php. 
 *Modal    ---> ver como hacer que desaparesca al darle click en input creo podria ser con el checked, o al igual que boostrap con
                 JavascriptVainilla opto la verdad por Javascript asi no sera tan pesado en la parte de etiquetas.
                 
