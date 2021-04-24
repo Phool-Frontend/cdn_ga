@@ -29,6 +29,7 @@
       
 * El modal que se pueda usar en input clasico y material desing:
 
+* En la seccion de efectos meterle el efecto de material desing como estrenando las cosas
 
 *******************************************************************************************************************************************************************************
 *Lista de administradores: Meterle un modal xrl8 en esa tabla de editar y borrar.
