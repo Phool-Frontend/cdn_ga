@@ -14,6 +14,10 @@
       font-size: x-large ----- laptop ---- 2.9vh 
 * Fondeo para las categorias de salir ----> desplegable_opcion{} 
                                             font-size:initial ----- laptop --- font-size: 2.3vh;
+                                            
+* Margen de la foto al salir cesion---->
+            .contenedor_desplegable {}
+            margin-top: 5vh !important;
 
 *******************************************************************************************************************************************************************************
 *Tamaño admin: ----------> cambiarle el tamaño
