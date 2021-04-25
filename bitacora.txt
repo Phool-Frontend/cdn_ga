@@ -3,41 +3,33 @@
 
 *Dashboard ---> meterle este grafico modo torta todo gozu luego le figureteamos mas gozu,esta puro css causa esta mamadicimo:
                 https://codepen.io/TsrCodes/pen/jObaGjE?fbclid=IwAR0_vAGjBfB8jdtHSX7bPSaEBmN-JGUDRLpqf08tR6LLsWdrPfGyDF4kkKI
-                        
-
-      
-*Lista de administradores: Meterle un modal xrl8 en esa tabla de editar y borrar.
-
-*Tamaño admin: ----------> cambiarle el tamaño
-      .contenedor_adm > .vertical_menu h4 {}  hay que meterle font-size: 2.5vh; 
-                  
-
-
-* Menu salir ---> necesita ser mas abajo y debe estar en %, rem o vh.
-      .contenedor_desplegable {}
-        margin-top: 3rem !important; funciona buien en esta dimencion
-        
-* Ta que jode ese margin let que tiene el dashboard 
-  - si en vez de margin le cambiamos a padding :v seeeee
-  
-  
-* Para centrarlo en la dimencion de gato:
-      .modal_form {}
-      left: 0;
-      right: 0;
-      margin: 0 auto;
-      
+                       
+                       
 * El modal que se pueda usar en input clasico y material desing:
 
 * En la seccion de efectos meterle el efecto de material desing como estrenando las cosas
 
 *Fondo grande para el OPCIONES
       .despegable_encabezado label {
-      font-size: x-large;
+      font-size: x-large ----- laptop ---- 2.9vh 
 * Fondeo para las categorias de salir ----> desplegable_opcion{} 
-                                            font-size:initial
+                                            font-size:initial ----- laptop --- font-size: 2.3vh;
 
 *******************************************************************************************************************************************************************************
+*Tamaño admin: ----------> cambiarle el tamaño
+      .contenedor_adm > .vertical_menu h4 {}  hay que meterle font-size: 2.5vh; 
+*Lista de administradores: Meterle un modal xrl8 en esa tabla de editar y borrar.
+* Menu salir ---> necesita ser mas abajo y debe estar en %, rem o vh.
+      .contenedor_desplegable {}
+        margin-top: 3rem !important; funciona buien en esta dimencion
+* Ta que jode ese margin let que tiene el dashboard 
+  - si en vez de margin le cambiamos a padding :v seeeee
+  
+* Para centrarlo en la dimencion de gato:
+      .modal_form {}
+      left: 0;
+      right: 0;
+      margin: 0 auto;
 *Lista de administradores: Meterle un modal xrl8 en esa tabla de editar y borrar.
 *Lista admin ----> hacer una lista normal simple sin paginacion,la cosa que funcione el modal de xrl8
       lista-admin.php. 
