@@ -12,14 +12,16 @@
 *Fondo grande para el OPCIONES
       .despegable_encabezado label {
       font-size: x-large ----- laptop ---- 2.9vh 
+
+                                            
+
+
+*******************************************************************************************************************************************************************************
 * Fondeo para las categorias de salir ----> desplegable_opcion{} 
                                             font-size:initial ----- laptop --- font-size: 2.3vh;
-                                            
 * Margen de la foto al salir cesion---->
             .contenedor_desplegable {}
             margin-top: 5vh !important;
-
-*******************************************************************************************************************************************************************************
 *Tamaño admin: ----------> cambiarle el tamaño
       .contenedor_adm > .vertical_menu h4 {}  hay que meterle font-size: 2.5vh; 
 *Lista de administradores: Meterle un modal xrl8 en esa tabla de editar y borrar.
