@@ -9,14 +9,14 @@
 
 * En la seccion de efectos meterle el efecto de material desing como estrenando las cosas
 
+
+
+                                           
+
+*******************************************************************************************************************************************************************************
 *Fondo grande para el OPCIONES
       .despegable_encabezado label {
       font-size: x-large ----- laptop ---- 2.9vh 
-
-                                            
-
-
-*******************************************************************************************************************************************************************************
 * Fondeo para las categorias de salir ----> desplegable_opcion{} 
                                             font-size:initial ----- laptop --- font-size: 2.3vh;
 * Margen de la foto al salir cesion---->
