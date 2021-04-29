@@ -5,7 +5,7 @@
                 https://codepen.io/TsrCodes/pen/jObaGjE?fbclid=IwAR0_vAGjBfB8jdtHSX7bPSaEBmN-JGUDRLpqf08tR6LLsWdrPfGyDF4kkKI
                        
                        
-* El modal que se pueda usar en input clasico y material desing:
+
 
 * En la seccion de efectos meterle el efecto de material desing como estrenando las cosas
 
@@ -14,6 +14,7 @@
                                            
 
 *******************************************************************************************************************************************************************************
+* El modal que se pueda usar en input clasico y material desing:
 *Fondo grande para el OPCIONES
       .despegable_encabezado label {
       font-size: x-large ----- laptop ---- 2.9vh 
