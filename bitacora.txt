@@ -26,7 +26,8 @@
         - Tabla responsive de 380px    --- Que es cuando se desaparece el menu vertical del dashboard 
 
 
-
+*El buscador que ise para el sistema de facturacion electronica sea de uso para los formularios de input clasico,field,material desing
+*El tipo date meter a los formularios de input clasico,field,material desing
                                            
 
 *******************************************************************************************************************************************************************************
