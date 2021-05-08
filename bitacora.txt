@@ -4,9 +4,10 @@
 *Dashboard ---> meterle este grafico modo torta todo gozu luego le figureteamos mas gozu,esta puro css causa esta mamadicimo:
                 https://codepen.io/TsrCodes/pen/jObaGjE?fbclid=IwAR0_vAGjBfB8jdtHSX7bPSaEBmN-JGUDRLpqf08tR6LLsWdrPfGyDF4kkKI
                        
-                       
 
-
+*Para terminar con el sistema de documentacion luego de haber corregido los listados de este txt hacer el dashboard pero del total de: 
+        numeros de efecto que cuenta el framework.
+        
 * En la seccion de efectos meterle el efecto de material desing como estrenando las cosas
 
 * Esta cagado el form_normal ----> Tiene bordes pese a copiar del la misma documentacion
