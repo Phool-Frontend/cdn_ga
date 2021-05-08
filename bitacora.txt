@@ -9,11 +9,21 @@
 
 * En la seccion de efectos meterle el efecto de material desing como estrenando las cosas
 
-* Esta cagado el form_normal ----> el modal muestra todo el texto a la derecha, ademas tiene bordes pese a copiar del la misma documentacion
-        Se supone que le ponimos sin bordes gozu y apegadito -_-
+* Esta cagado el form_normal ----> Tiene bordes pese a copiar del la misma documentacion
+        Se supone que le ponimos sin bordes gozu y apegadito -_-   
+        
+        
+* Texto a la derecha --->.modal_contenido {text-align: right;}
         
 
 *Modal  ---> Se repite modal contenido en el footer,que yo sepa estaba modal footer o soporte o resistencia, cambiar si no nos dimos cuenta
+
+
+
+*Lo de la tabla responsive que se distorciona de Horizontal a Vertical podemos hacerlo clases por rangos example:
+        - Tabla responsive de 1216px   --- Que es lo que necesito para los efectos que listan en la tabla.
+        - Tabla responsive de 646px    --- Que es cuando se encoje el menu de opciones completas a casi un 20%
+        - Tabla responsive de 380px    --- Que es cuando se desaparece el menu vertical del dashboard 
 
 
 
