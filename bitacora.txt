@@ -11,6 +11,10 @@
 
 
 
+*Modal  ---> Se repite modal contenido en el footer,que yo sepa estaba modal footer o soporte o resistencia, cambiar si no nos dimos cuenta
+
+
+
                                            
 
 *******************************************************************************************************************************************************************************
