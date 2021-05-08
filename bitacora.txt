@@ -19,7 +19,9 @@
 
 *Modal  ---> Se repite modal contenido en el footer,que yo sepa estaba modal footer o soporte o resistencia, cambiar si no nos dimos cuenta
 
+*Hacer el efecto del footer y documentar en el xrl8, para luego poder construir la documentacion del sitio parte Front-End
 
+*Solucionar el problema que tuvimos cuando grabamos el video con para el ing omar.
 
 *Lo de la tabla responsive que se distorciona de Horizontal a Vertical podemos hacerlo clases por rangos example:
         - Tabla responsive de 1216px   --- Que es lo que necesito para los efectos que listan en la tabla.
