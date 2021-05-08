@@ -32,7 +32,28 @@
 *El buscador que ise para el sistema de facturacion electronica sea de uso para los formularios de input clasico,field,material desing
 *El tipo date meter a los formularios de input clasico,field,material desing
 
-*Buscar todos las clases escritas en sistema XRL8 y en sistema de facturacion electronica para saber que cosas de incompatibilidad habia en mi FRAMEWORK XRL8
+*Buscar todos las clases escritas en sistema XRL8 y en sistema de facturacion electronica para saber que cosas de incompatibilidad habia en mi FRAMEWORK XRL8}
+
+
+
+
+SOLO ESTO TIENE EL FOOTER DE SISTEMA XRL8 PARA QUE FLOTE NO HAY NADA EN EL BODY O HTML
+footer {
+    width: 100%;
+    height: 4vh;
+    background-color: olivedrab;
+    color: white;
+    text-align: center;
+    bottom: 0;
+    position: absolute;
+    font-size: xx-large;
+    display: flex;
+    align-items: center;
+}
+
+
+
+
 
 *******************************************************************************************************************************************************************************
 * El modal que se pueda usar en input clasico y material desing:
